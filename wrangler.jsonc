@@ -6,7 +6,8 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "cloudflare-better-auth-vitest",
 	"main": "src/index.ts",
-	"compatibility_date": "2025-08-03",
+	"compatibility_date": "2025-07-26",
+	"compatibility_flags": ["nodejs_compat"],
 	"observability": {
 		"enabled": true
 	}
